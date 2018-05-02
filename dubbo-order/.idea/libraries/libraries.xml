@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../dubbo-user/.idea/libraries" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../dubbo-user/.idea/libraries" recursive="false" />
+  </library>
+</component>
